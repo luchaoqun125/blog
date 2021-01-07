@@ -1,0 +1,19 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "自动化测试",
+  "main": "index.js",
+  "scripts": {
+    "build": "node ./scripts/build.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchaoqun125/blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luchaoqun125/blog/issues"
+  },
+  "homepage": "https://github.com/luchaoqun125/blog#readme"
+}
