@@ -9,4 +9,4 @@
 根据下图找到wine64和wineserver，用终端打开
 ![avatar](./images/1-1.png)
 
-4、然后继续build，就成功了
+4、然后继续build，就成功
